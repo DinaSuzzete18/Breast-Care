@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "breast-care-f8bfb",
+  "private_key_id": "bc242f36019bce13e469f4859ed3e8b482331f82",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDXzo/Wlu5SeLs6\nh5xlU3CkeIMsU4UNc201AACvUOUH3WRQv8UBHVn0zyqXnr7dcxU11NZ1VDv65War\nNOvQewtBQiVul6WCXlYW1cGmjALgRVrkIVthJMz2kuAWjKaQt/AaqEehj2NzSFkR\nbdYhe6m3g9r6dSWBIpyPmkv7FEzPSx0PXCYUSCSLmJbwL2f+sO12YBSK0yRmwmAK\niEvFb9YBWCLeZTKfyviCdWjD5fOGRXA0L7GbF/4WmGz96FjsUK+ItS22jCmk11wN\nGzZPvBRmBjxB4IGYbE5b4duy+2Xosn+3L+WtKmQ5Z1pUv7SLB7zMhp46YDEzL1tj\nQ7QmjwTXAgMBAAECggEAHdfP9qNe5/hlH9DCtRURqyo1LYs2h5J85CA7eAMDoQ+h\nwImRwzfdXugfzOF5eyM1KCwQz3SAv487Suq3FNinHkpOOy8XsWG9SEwdYEbVW6aL\noqeQPOymDA+/Pa8L66WxZjumKDaC0LLiX5wk8/K8w1wltePpoKQk1WDyJ+b5640H\nt7pd1g7K2lV+05QOfHRGSrJgKgRxF5BLIh3Grrq5Ds3YbXCJ8pNkuaM2m9hpna6J\n/4fle0Q4gXa+p1SzprYfjIOx7AwmJidaVnLQNroqyFBhb9yu+5WeYjPnSc2nvazL\nX6uoxyjFaJLjZ2ZlQELIqEi9eIuhvS1kPPSRpScAfQKBgQDy9xtf0JE4X346LBNn\n4hlTnwO2fWsA++67dykUX+H2UOBwZPCKqmXtOZ20ti41ZsTlC2UDPZbmiVYUtwd3\nxv5s/wPzS9vvfVotyuQAklaUWQeOdiyb/Vj2cL4jso2pOxv5aqpusLnLxkBf4WR2\nSXh/L+iL9a3S0hUcBx1LDxTpBQKBgQDjYnX58LTW6G+xV0V4Y1u4IeyQZYyfC767\n/sQKijjGjGwP6uvL9Nku+o/TdBSWdOE1wHkTEkuEpGHB1HeTBDGVqmQYoE8d9azI\nQQs5cZuZHH5GI+zDUfbRv8pt804BNLn6bJ5ikFJ3yUiouSRlnAedJsSnkz6lVRRj\nenb7oJ4tKwKBgA+kHswFRkQFyb9+9OTcJls+wmNuIYRXs5+35RodrhNIU5qItP+I\nRrWF3wQyMjlX21cPa7pQrbU7pCIDQmTQl7J2nE9+U7NQM4z9Ib5zrUUxkg32x5pn\nLeH3khYEOaBqYLumxUAI+n0Gz0Ac53XB9xLhB6xy7XTD933ta1JYrzTtAoGAC0QC\nklqRqyAjAIdRYtCRZ8MOhGzzlaGwVoId1mPYwkWMyREbk6RS6lfxrklPB9FMoywh\nE4fRhAXc7gyHzBnmFwM1KF8w7EwSvm0ykCsHyYM24mS/Q0IZV3UII4BtefPRzw14\nn2uFGng3iFx76Cjd27RjA+ZwsSJQ+0jDAl6H17cCgYBYeUZyWPd1I4fvdUC1jIp0\n0N0Ucng/Xiqlh4aNdHa4QiuLyBlZjcsCKIaZkZaQQtCIwS72mU2AdJWmeRlKBhJ9\nRhp5UfKWxUdRe0FKzB1r4BryyKbAi2eOv9qRXeORNPQpWtlbx3OC2rFPlV0YJqE2\nI/UZKaV9UO1m5qLnQokBnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rez5p@breast-care-f8bfb.iam.gserviceaccount.com",
+  "client_id": "100743426467299518943",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rez5p%40breast-care-f8bfb.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
