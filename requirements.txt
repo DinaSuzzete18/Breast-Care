@@ -1,0 +1,9 @@
+streamlit
+pillow
+firebase-admin
+requests
+pandas==2.2.2
+streamlit-option-menu
+numpy==1.26.4
+scikit-learn
+
