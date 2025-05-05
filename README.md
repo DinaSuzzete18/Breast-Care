@@ -10,8 +10,10 @@ Prediksi awal terhadap sel kanker memungkinkan pasien untuk segera berkonsultasi
   <img src="https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/logo.jpg?raw=true" alt="Logo Breast Care" width="200"/>
 </p>
 
-**Breast Care** adalah platform website yang menyediakan layanan deteksi kanker payudara secara otomatis menggunakan algoritma kecerdasan buatan (*Artificial Intelligence*).  
-Platform ini tidak hanya menawarkan fitur prediksi, tetapi juga menyajikan informasi edukatif seputar kanker payudara untuk meningkatkan kesadaran masyarakat.
+**Breast Care** aadalah sebuah platform website yang dirancang untuk membantu deteksi dini kanker payudara secara otomatis dengan memanfaatkan algoritma Machine Learning, yaitu K-Nearest Neighbors (*KNN*). Platform ini bertujuan untuk memberikan dukungan awal bagi pengguna dalam mengenali potensi risiko kanker payudara sebelum melakukan konsultasi medis lanjutan.  
+Website ini juga menyediakan fitur prediksi berbasis kecerdasan buatan, Breast Care juga menyajikan informasi edukatif yang mudah dipahami seputar kanker payudara.
+Antarmuka yang ramah pengguna (user-friendly) memudahkan pengunjung dalam mengakses layanan prediksi maupun materi edukasi. 
+Website ini diharapkan dapat meningkatkan kesadaran masyarakat dan mempercepat tindakan medis yang tepat.
 
 ## 🌐 Tampilan Website  
 <p align="center">
