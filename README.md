@@ -1,11 +1,23 @@
-# Kanker Payudara 
-Kanker payudara merupakan penyakit terbanyak pada wanita dan angka kematiannya menempati posisi kedua pada kasus kanker. 
-Kematian tersebut dapat dikurangi dengan melakukan deteksi dini terhadap sel kanker. Prediksi kanker ini dapat membantu pasien untuk berkonsultasi dengan dokter lebih cepat.
-# Breast Care 
-(![alt text](https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/logo.jpg?raw=true)
-merupakan sebuah platform website yang menyediakan layanan prediksi secara otomatis menggunakan algoritma kecerdasan buatan. 
-Pada platfrom ini tidak hanya menyediakan pendeteksi berbasis kecerdasan buatan, namun juga menyediakan informasi seputar kanker payudara. 
+# 🩺 Breast Care – Deteksi Kanker Payudara Berbasis AI
 
-# Website Breast Care 
-(gambar website: 
-Website Braast Care dapat diakses melalui laman: https://breast-care-kel12-msib-bisa-ai.streamlit.app/
+## 📌 Tentang Kanker Payudara  
+Kanker payudara merupakan jenis kanker paling umum pada wanita dan menduduki peringkat kedua dalam angka kematian akibat kanker.  
+Deteksi dini sangat penting untuk meningkatkan peluang kesembuhan dan menurunkan angka kematian.  
+Prediksi awal terhadap sel kanker memungkinkan pasien untuk segera berkonsultasi dengan tenaga medis.
+
+## 💡 Apa Itu *Breast Care*?  
+<p align="center">
+  <img src="https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/logo.jpg?raw=true" alt="Logo Breast Care" width="200"/>
+</p>
+
+**Breast Care** adalah platform website yang menyediakan layanan deteksi kanker payudara secara otomatis menggunakan algoritma kecerdasan buatan (*Artificial Intelligence*).  
+Platform ini tidak hanya menawarkan fitur prediksi, tetapi juga menyajikan informasi edukatif seputar kanker payudara untuk meningkatkan kesadaran masyarakat.
+
+## 🌐 Tampilan Website  
+<p align="center">
+  <img src="https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/Breast%20Care.JPG?raw=true" alt="Tampilan Website Breast Care" width="300"/>
+</p>
+
+## 🚀 Akses Website  
+Klik tautan berikut untuk mencoba layanan deteksi AI kami:  
+👉 [https://breast-care-kel12-msib-bisa-ai.streamlit.app/](https://breast-care-kel12-msib-bisa-ai.streamlit.app/)
