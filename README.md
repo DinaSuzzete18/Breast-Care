@@ -15,7 +15,7 @@ Platform ini tidak hanya menawarkan fitur prediksi, tetapi juga menyajikan infor
 
 ## 🌐 Tampilan Website  
 <p align="center">
-  <img src="https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/Breast%20Care.JPG?raw=true" alt="Tampilan Website Breast Care" width="300"/>
+  <img src="https://github.com/DinaSuzzete18/Breast-Care/blob/main/image/Breast%20Care.JPG?raw=true" alt="Tampilan Website Breast Care" width="1000"/>
 </p>
 
 ## 🚀 Akses Website  
